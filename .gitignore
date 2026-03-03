@@ -1,1 +1,7 @@
 .venv/
+qlora-output/
+adapters/adapter_config.json
+adapters/tokenizer*
+adapters/special_tokens_map.json
+adapters/tokenizer_config.json
+adapters/README.md
