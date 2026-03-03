@@ -32,10 +32,9 @@ This confirms successful parameter-efficient fine-tuning.
 
 ## Training Results
 
-- Training completed for 3 epochs
-- Loss decreased progressively during training
-- No GPU memory overflow
-- Stable optimization observed
+Training was completed for 3 epochs. Both training and validation loss decreased consistently, indicating stable optimization and good generalization.
+
+![training-results](screenshots/day2/training-results.png)
 
 ---
 
