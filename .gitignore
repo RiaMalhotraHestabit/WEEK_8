@@ -5,3 +5,4 @@ adapters/tokenizer*
 adapters/special_tokens_map.json
 adapters/tokenizer_config.json
 adapters/README.md
+model-fp16/
