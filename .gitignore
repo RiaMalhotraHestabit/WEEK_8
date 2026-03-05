@@ -7,8 +7,8 @@ adapters/tokenizer_config.json
 adapters/README.md
 model-fp16/
 
-model-int4/model.safetensors
-model-int4/tokenizer.json
+quantized/model-int4/model.safetensors
+quantized/model-int4/tokenizer.json
 
-model-int8/model.safetensors
-model-int8/tokenizer.json
+quantized/model-int8/model.safetensors
+quantized/model-int8/tokenizer.json
