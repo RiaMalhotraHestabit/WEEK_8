@@ -6,3 +6,9 @@ adapters/special_tokens_map.json
 adapters/tokenizer_config.json
 adapters/README.md
 model-fp16/
+
+model-int4/model.safetensors
+model-int4/tokenizer.json
+
+model-int8/model.safetensors
+model-int8/tokenizer.json
