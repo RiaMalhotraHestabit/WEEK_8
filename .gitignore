@@ -12,3 +12,5 @@ quantized/model-int4/tokenizer.json
 
 quantized/model-int8/model.safetensors
 quantized/model-int8/tokenizer.json
+
+quantized/model.gguf
